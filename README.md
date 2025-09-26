@@ -170,6 +170,38 @@
             </div>
         </section>
 
+        <section id="detalles" class="py-20 bg-blue-50">
+            <div class="container mx-auto px-6">
+                <div class="text-center mb-12">
+                    <h2 class="text-3xl md:text-4xl font-bold altum-blue-text">Beneficios del Hogar Inteligente</h2>
+                    <p class="text-gray-600 mt-2">Descubre cómo las automatizaciones pueden transformar tu espacio.</p>
+                </div>
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                    <div class="bg-white p-6 rounded-xl shadow-lg">
+                        <div class="flex items-center space-x-4 mb-2">
+                            <span class="text-4xl altum-green-text">💡</span>
+                            <h4 class="text-xl font-semibold">Iluminación Inteligente</h4>
+                        </div>
+                        <p class="text-gray-600">Controla las luces de tu hogar de forma remota, programa horarios o ajústalas con comandos de voz para crear el ambiente perfecto.</p>
+                    </div>
+                    <div class="bg-white p-6 rounded-xl shadow-lg">
+                        <div class="flex items-center space-x-4 mb-2">
+                            <span class="text-4xl altum-green-text">🌡️</span>
+                            <h4 class="text-xl font-semibold">Climatización Automática</h4>
+                        </div>
+                        <p class="text-gray-600">Ahorra energía con termostatos inteligentes que se ajustan según tu presencia y temperatura exterior. Mantén siempre el confort en casa.</p>
+                    </div>
+                    <div class="bg-white p-6 rounded-xl shadow-lg">
+                        <div class="flex items-center space-x-4 mb-2">
+                            <span class="text-4xl altum-green-text">🛡️</span>
+                            <h4 class="text-xl font-semibold">Monitoreo y Seguridad</h4>
+                        </div>
+                        <p class="text-gray-600">Recibe alertas en tu celular si hay actividad inusual. Con las cámaras inteligentes, siempre tendrás tu hogar a la vista, estés donde estés.</p>
+                    </div>
+                </div>
+            </div>
+        </section>
+
         <section id="contact" class="altum-blue text-white py-20">
             <div class="container mx-auto px-6 text-center">
                 <h2 class="text-3xl md:text-4xl font-bold">¿Listo para mejorar tu conexión y seguridad?</h2>
